@@ -106,7 +106,7 @@ function isFull(){
 			return false;
 		} 
 	}
-	return false;
+	return true;
 }
 
 
